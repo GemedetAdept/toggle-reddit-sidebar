@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Toggle Reddit Sidebar
-// @namespace    toggleBarWithDefault
+// @namespace    toggle-reddit-sidebar
 // @version      1.0
 // @description  Adds a button to toggle the sidebar on Reddit, with the option to have it hidden or shown by default.
 // @author       GemedetAdept
