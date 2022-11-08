@@ -5,7 +5,8 @@
 // @description  Adds a button to toggle the sidebar on Reddit, with the option to have it hidden or shown by default.
 // @author       GemedetAdept
 // @match        *://*.reddit.com/*
-// @credits      Adapted from "Hide Reddit Side Bar" script by u/pm_all_ahri_art @ https://greasyfork.org/en/scripts/375201-hide-reddit-side-bar
+// @credits      Adapted, with permission, from "Hide Reddit Side Bar" script by u/pm_all_ahri_art @ https://greasyfork.org/en/scripts/375201-hide-reddit-side-bar
+// @license      GNU v3.0
 // ==/UserScript==
 
 var IsHidden = true;
