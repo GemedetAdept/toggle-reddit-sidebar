@@ -1,6 +1,6 @@
 # Toggle Reddit Sidebar
 
-Forked from the "Hide Reddit Side Bar" userscript by u/pm_all_ahri_art (Jonathan Ma on GreasyFork, found here: https://greasyfork.org/en/scripts/375201-hide-reddit-side-bar).
+Forked from the "Hide Reddit Side Bar" userscript by u/pm\_all\_ahri\_art (Jonathan Ma on GreasyFork, found here: https://greasyfork.org/en/scripts/375201-hide-reddit-side-bar).
 
 Adds a button to toggle the sidebar on Reddit, with a variable to have it hidden or shown by default.
 
